@@ -3,7 +3,7 @@ namespace screte
     internal class Program
     {
         static string[] userNamesList = { "Pelle", "Stina", "Ali", "Bob" };
-        static string[] userPasswordsList = { "1234", "abcd", "qwerty", "" };
+        static string[] userPasswordsList = { "1232342344", "abcd", "qwerty", "" };
 
         static void Main(string[] args)
         {
